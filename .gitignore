@@ -1,0 +1,3 @@
+# Ignore models files 
+*.keras
+*.h5
